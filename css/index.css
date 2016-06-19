@@ -1,0 +1,42 @@
+.container {
+  display: -webkit-flex;
+  display: flex;
+}
+
+h1 {
+  font-family: sans-serif;;
+}
+
+.left-space {
+    -webkit-flex: initial;
+    flex: initial;
+    width: 200px;
+}
+
+.column1 {
+  -webkit-flex: none;
+  flex: none;
+  box-sizing: border-box;
+  width: 110px;
+  z-index: 100;
+  margin-top: -40px
+}
+
+
+.column2 {
+  -webkit-flex: none;
+  flex: none;
+  box-sizing: border-box;
+  margin-left: 30px;
+  width: 525px;
+}
+
+
+.column3 {
+  -webkit-flex: none;
+  flex: none;
+  box-sizing: border-box;
+  margin-left: 30px;
+  width: 300px;
+  padding-top: 250px;
+}
