@@ -40,3 +40,21 @@ h1 {
   width: 300px;
   padding-top: 250px;
 }
+
+upper-box {
+  float left;
+  padding-left: 5px;
+  padding-right: 45px;
+  padding-top: 5px
+  padding-bottom: 5px;
+  border: 1px solid black;
+}
+
+lower-box {
+  clear: left:
+  padding-left: 5px;
+  padding-right: 45px;
+  padding-top: 500px
+  padding-bottom: 15px;
+  /*border: 1px solid black;*/
+}
